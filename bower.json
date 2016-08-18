@@ -1,0 +1,17 @@
+{
+    "name": "droidserif-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Steve Matteson"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/droidserif-bower.git"
+    },
+    "description": "Droid Serif font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
